@@ -1,6 +1,4 @@
-# P4RM's Development dependencies
-
-List of core development dependencies for P4RM projects.
+# JUSTAOS's Projects most used development dependencies
 
 ## Code of Conduct
 [Contributor Covenant](/CODE_OF_CONDUCT.md)
