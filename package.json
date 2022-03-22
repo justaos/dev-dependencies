@@ -1,6 +1,6 @@
 {
   "name": "@justaos/dev-dependencies",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "JUSTAOS's Projects most used development dependencies",
   "publishConfig": {
     "access": "public"
@@ -22,6 +22,6 @@
     "ts-node": "^10.7.0",
     "typescript": "^4.6.2"
   },
-  "author": "Shivaji Varma <contact@shivajivarma.com>",
+  "author": "Shivaji Varma Pusapati Venkata <contact@shivajivarma.com> (https://shivajivarma.com)",
   "license": "Apache-2.0"
 }
