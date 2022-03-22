@@ -1,6 +1,6 @@
 {
   "name": "@justaos/dev-dependencies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JUSTAOS's Projects most used development dependencies",
   "publishConfig": {
     "access": "public"
