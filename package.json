@@ -1,12 +1,13 @@
 {
   "name": "@justaos/dev-dependencies",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JUSTAOS's Projects most used development dependencies",
   "publishConfig": {
     "access": "public"
   },
   "homepage": "https://justaos.com",
   "dependencies": {
+    "@types/node": "^17.0.22",
     "@types/chai": "^4.3.0",
     "@types/mocha": "^9.1.0",
     "@typescript-eslint/eslint-plugin": "^5.16.0",
