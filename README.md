@@ -1,4 +1,5 @@
-# JUSTAOS's Projects most used development dependencies
+# JUSTAOS Dev Dependencies
+JUSTAOS's Projects most used development dependencies
 
 ## Code of Conduct
 [Contributor Covenant](/CODE_OF_CONDUCT.md)
